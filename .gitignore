@@ -1,0 +1,42 @@
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dossiers virtuels d'environnement
+env/
+venv/
+ENV/
+.venv/
+
+# Fichiers de logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration personnels
+*.env
+*.idea/
+.vscode/
+
+# Dépendances installées via pip
+*.egg-info/
+dist/
+build/
+
+# Fichiers de sortie ou temporaires
+*.csv
+*.xlsx
+*.h5
+*.pkl
+*.joblib
+*.db
+*.sqlite
+
+# Fichiers générés automatiquement
+requirements.txt
